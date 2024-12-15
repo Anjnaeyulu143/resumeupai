@@ -14,4 +14,4 @@
 
 ## 8. Frequently Asked Questions ✅
 
-## 9. Other Tools You'll Love for career success
+## 9. Other Tools You'll Love for career ✅
