@@ -11,28 +11,28 @@ const data = [
   {
     id: uuidv4(),
     title: "Instant Resume Rewriting – Rewrite My Resume",
-    icon: <RiTimerFlashLine size={40} className="text-blue-500 mb-4" />,
+    icon: <RiTimerFlashLine size={40} className="text-indigo-700 mb-4" />,
     description:
       "Our AI resume rewriter quickly scans your resume and rewrites it to tailor it to your targeted job position. It takes less than a few seconds to do that.",
   },
   {
     id: uuidv4(),
     title: "AI Resume Fixer – Fix My Resume Quickly and Efficiently",
-    icon: <FiTool size={40} className="text-blue-500 mb-4 font" />,
+    icon: <FiTool size={40} className="text-indigo-700 mb-4 font" />,
     description:
       "Fixed your resume and still confused? No, you don’t have to be. Our AI resume rewriter fixes your resume with the utmost efficiency very quickly.",
   },
   {
     id: uuidv4(),
     title: "Free AI Resume Rewriting – Access the Power of AI for Free",
-    icon: <MdOutlineAttachMoney size={40} className="text-blue-500 mb-4" />,
+    icon: <MdOutlineAttachMoney size={40} className="text-indigo-700 mb-4" />,
     description:
       "And do you think all these benefits come at a cost? No, they’re absolutely free. Take advantage of our free AI resume rewriter and get ready to ace your dream job interview.",
   },
   {
     id: uuidv4(),
     title: "Intelligent Resume Enhancements – Make My Resume Better",
-    icon: <AiOutlineBulb size={40} className="text-blue-500 mb-4" />,
+    icon: <AiOutlineBulb size={40} className="text-indigo-700 mb-4" />,
     description:
       "With just a click, our resume enhancer improves and fixes your resume. Your resume is updated and modified to attract recruiters and strengthen their opinion of you.",
   },
@@ -40,7 +40,7 @@ const data = [
     id: uuidv4(),
     title:
       "Job-Specific Optimization – Align Your Resume with Any Job Description",
-    icon: <FaClipboardCheck size={40} className="text-blue-500 mb-4" />,
+    icon: <FaClipboardCheck size={40} className="text-indigo-700 mb-4" />,
     description:
       "The main feature of our AI resume rewriter is that it customizes your resume to the specific job that you’re applying for. In this way, your resume looks more qualified for that particular job role.",
   },

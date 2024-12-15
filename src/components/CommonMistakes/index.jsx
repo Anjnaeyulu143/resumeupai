@@ -12,35 +12,35 @@ const data = [
   {
     id: uuidv4(),
     title: "Fix Resume Formatting – Clean, Professional Layout",
-    icon: <FiLayout size={40} className="text-red-500 mb-4" />,
+    icon: <FiLayout size={40} className="text-indigo-700 mb-4" />,
     description:
       "Fix the poor format, and unprofessional style of your resume into a clean, organized, and professional format with our tool.",
   },
   {
     id: uuidv4(),
     title: "Improve Resume Content – Enhance Impact with Stronger Verbs",
-    icon: <AiOutlineEdit size={40} className="text-red-500 mb-4 font" />,
+    icon: <AiOutlineEdit size={40} className="text-indigo-700 mb-4 font" />,
     description:
       "Our AI resume rewriter replaces the weak verbs that seem to have no big impact with strong verbs that strengthen the impact made on the employer.",
   },
   {
     id: uuidv4(),
     title: "Resume Grammar and Spelling Fixer – Eliminate Errors",
-    icon: <BiCheckShield size={40} className="text-red-500 mb-4" />,
+    icon: <BiCheckShield size={40} className="text-indigo-700 mb-4" />,
     description:
       "Eliminate spelling and grammatical errors that bring down the value of your resume and highlight the negative aspects, through our AI resume rewriter.",
   },
   {
     id: uuidv4(),
     title: "Buzzwords & Cliché Fixer – Make Your Resume Stand Out",
-    icon: <MdOutlineHighlight size={40} className="text-red-500 mb-4" />,
+    icon: <MdOutlineHighlight size={40} className="text-indigo-700 mb-4" />,
     description:
       "Our AI resume fixer ensures your resume seems unique and makes it stand out by incorporating high relevancy into it and eliminating the buzzwords and cliches.",
   },
   {
     id: uuidv4(),
     title: "Metrics and Accomplishments – Quantify Your Achievements",
-    icon: <FaChartBar size={40} className="text-red-500 mb-4" />,
+    icon: <FaChartBar size={40} className="text-indigo-700 mb-4" />,
     description:
       "TOur AI resume improver quantifies your achievements through metrics, if you did not, in the most effective and impactful way so that they highlight the impact you made through your skills.",
   },
